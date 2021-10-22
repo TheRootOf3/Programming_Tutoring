@@ -1,6 +1,6 @@
 # Programming Tutoring
 
-This repo contains educational resources, hints and solutions to programming exercises.
+This repo contains educational resources, hints and solutions to programming exercises developed together with students.
 
 ---
 
